@@ -11,5 +11,8 @@ dependencies:
     - azureml-monitoring==0.1.0a21
     - inference-schema==1.1.0
     - inference-schema[numpy-support]==1.1.0
+    - scikit-learn==0.23.2
+    - pandas==1.1.5
+    - matplotlib==3.3.3
 channels:
   - conda-forge
